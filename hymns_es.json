@@ -2044,51 +2044,17 @@
       }
     ]
   },
-  {
-    "id": 39,
-    "hymn_number": 39,
-    "title": "¿Se preocupa Jesús?",
-    "author": "Rev Frank E. Graeff",
-    "category": "General",
-    "is_favorite": false,
-    "last_opened": null,
-    "verses": [
-      {
-        "number": 1,
-        "lines": [
-          "¿Le importa a Jesús",
-          "Cuando me duele el corazón",
-          "Demasiado profundo para la alegría o la canción,",
-          "A medida que las cargas presionan,",
-          "Y los cuidados angustian",
-          "Y el camino crece",
-          "¿Cansado y largo?"
-        ]
-      },
-      {
-        "number": 2,
-        "lines": [
-          "¿Le importa a Jesús",
-          "Cuando mi camino es oscuro",
-          "¿Con un temor y un miedo sin nombre?",
-          "A medida que la luz del día se desvanece",
-          "En sombras nocturnas profundas,",
-          "¿Le importa lo suficiente como para estar cerca?"
-        ]
-      },
-      {
-        "number": 3,
-        "lines": [
-          "¿Le importa a Jesús",
-          "Cuando lo intenté y fallé",
-          "Para resistir alguna tentación fuerte;",
-          "Cuando para mi profundo dolor",
-          "No encuentro alivio,",
-          "¿Aunque mis lágrimas fluyan toda la noche?"
-        ]
-      }
-    ]
-  },
+ {"id":39,"hymn_number":39,
+	"title":"¿Se preocupa Jesús?",
+	"author":"Rev Frank E. Graeff",
+	"category":null,
+	"is_favorite":false,
+	"last_opened":null,
+	"verses":[
+		{
+			"verse_number":1,
+			"text":"¿Se preocupa Jesús?\ncuando mi corazón está adolorido\ndemasiado profundamente para la alegría o el canto,\ncuando las cargas presionan y los cuidados angustian\ny el camino se vuelve cansado y largo?"},{"verse_number":null,"text":"O yes He care's; I know He care's\nHis heart is touched wit my grief;\nWhen the day's are weary,\nThe long night dreary,\nI know my Saviour care's , He cares"},{"verse_number":2,"text":"¿Se preocupa Jesús cuando mi camino es oscuro\ncon un pavor y temor sin nombre?\nA medida que la luz del día se desvanece en las sombras de la noche profunda,\n¿Se preocupa lo suficiente para estar cerca?"},{"verse_number":3,"text":"¿Se preocupa Jesús cuando he intentado y fallado\nen resistir alguna fuerte tentación;\ncuando por mi profundo dolor no encuentro alivio,\naunque mis lágrimas fluyan toda la noche?"},{"verse_number":4,"text":"¿Se preocupa Jesús cuando he dicho adiós\na lo más querido para mí en la tierra\ny mi triste corazón duele hasta casi romperse-\n¿Es algo para Él? ¿Él ve!"}],"chorus":null},
+   
   {
     "id": 40,
     "hymn_number": 40,
